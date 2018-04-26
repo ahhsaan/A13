@@ -177,9 +177,7 @@ nav ul li ul {
   overflow: visible;
   padding: 0;
 }
-nav ul li:hover ul {
-  display: block;
-}
+
 nav ul ul li {
   background: green;
   display: block;
