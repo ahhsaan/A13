@@ -167,9 +167,7 @@ nav li>a {
   text-align: center;
 }
 
-nav li>a:hover {
-  background: violet;
-}
+
 nav ul li ul {
   display: none;
   position: absolute;
